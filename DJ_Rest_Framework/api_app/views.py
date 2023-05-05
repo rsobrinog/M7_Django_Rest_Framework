@@ -17,5 +17,4 @@ def getProducts(request):
         {'lista 3':'Mylist 3'},
         {'lista 4':'Mylist 5'}
     ]
-
     return Response(list)
